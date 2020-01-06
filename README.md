@@ -51,4 +51,4 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173321_f828f801_736072.png "WMS-截图8.PNG")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173328_41f84519_736072.png "WMS-截图9.PNG")
 ## 视频
-> http://qiuniu.yangshare.com/IDEA导入仓库系统并运行 (2).mp4
+> http://qiuniu.yangshare.com/IDEA%E5%AF%BC%E5%85%A5%E4%BB%93%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%B9%B6%E8%BF%90%E8%A1%8C%20(2).mp4
