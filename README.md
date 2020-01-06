@@ -33,26 +33,21 @@
 * MySQL-Connector
 * jQuery
 * Bootstrap
+## 登陆系统方式
+用户ID : 1001
+密码 ：123456
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/172938_7e1c90d9_736072.png "屏幕截图.png")
 
 ## 数据库关系图
 ![输入图片说明](https://gitee.com/uploads/images/2018/0412/194935_92258b3b_736072.png "Diagram 1.png")
 
 ## 部分截图
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173158_70c3cba9_736072.png "WMS-截图1.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173225_8869b802_736072.png "MWS-截图2.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173239_39be69c7_736072.png "WMS-截图3.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173247_db6a6bdf_736072.png "WMS-截图4.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173256_8b7d7df4_736072.png "WMS-截图5.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173311_53b058f8_736072.png "WMS-截图7.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173321_f828f801_736072.png "WMS-截图8.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173328_41f84519_736072.png "WMS-截图9.PNG")
 
-![](https://raw.githubusercontent.com/KEN-LJQ/MarkdownPics/master/Resource/2017-3-9/WMS-%E6%88%AA%E5%9B%BE1.PNG)
-
-![](https://raw.githubusercontent.com/KEN-LJQ/MarkdownPics/master/Resource/2017-3-9/MWS-%E6%88%AA%E5%9B%BE2.PNG)
-
-![](https://raw.githubusercontent.com/KEN-LJQ/MarkdownPics/master/Resource/2017-3-9/WMS-%E6%88%AA%E5%9B%BE3.PNG)
-
-![](https://raw.githubusercontent.com/KEN-LJQ/MarkdownPics/master/Resource/2017-3-9/WMS-%E6%88%AA%E5%9B%BE4.PNG)
-
-![](https://raw.githubusercontent.com/KEN-LJQ/MarkdownPics/master/Resource/2017-3-9/WMS-%E6%88%AA%E5%9B%BE5.PNG)
-
-![](https://raw.githubusercontent.com/KEN-LJQ/MarkdownPics/master/Resource/2017-3-9/WMS-%E6%88%AA%E5%9B%BE7.PNG)
-
-![](https://raw.githubusercontent.com/KEN-LJQ/MarkdownPics/master/Resource/2017-3-9/WMS-%E6%88%AA%E5%9B%BE8.PNG)
-
-![](https://raw.githubusercontent.com/KEN-LJQ/MarkdownPics/master/Resource/2017-3-9/WMS-%E6%88%AA%E5%9B%BE8.PNG)
-
-![](https://raw.githubusercontent.com/KEN-LJQ/MarkdownPics/master/Resource/2017-3-9/WMS-%E6%88%AA%E5%9B%BE9.PNG)
