@@ -62,11 +62,9 @@ public class AccountHandler {
      * @param user 账户信息
      * @return 返回一个 Map 对象，其中包含登陆操作的结果
      */
-    @SuppressWarnings("unchecked")
     @RequestMapping(value = "login", method = RequestMethod.POST)
-    public
     @ResponseBody
-    Map<String, Object> login(@RequestBody Map<String, Object> user) {
+    public Map<String, Object> login(@RequestBody Map<String, Object> user) {
         // 初始化 Response
         Response response = ResponseFactory.newInstance();
         String result = Response.RESPONSE_RESULT_ERROR;
@@ -118,7 +116,7 @@ public class AccountHandler {
                 errorMsg = "ServerError";
             } finally {
                 // 当登陆失败则清除session中的用户信息
-                if (result.equals(Response.RESPONSE_RESULT_ERROR)){
+                if (result.equals(Response.RESPONSE_RESULT_ERROR)) {
                     session.setAttribute("userInfo", null);
                 }
             }

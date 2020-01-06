@@ -77,12 +77,10 @@ public class SupplierManageHandler {
      * @return
      */
     @RequestMapping(value = "getSupplierList", method = RequestMethod.GET)
-    @SuppressWarnings("unchecked")
-    public
     @ResponseBody
-    Map<String, Object> getSupplierList(@RequestParam("searchType") String searchType,
-                                        @RequestParam("offset") int offset, @RequestParam("limit") int limit,
-                                        @RequestParam("keyWord") String keyWord) throws SupplierManageServiceException {
+    public Map<String, Object> getSupplierList(@RequestParam("searchType") String searchType,
+                                               @RequestParam("offset") int offset, @RequestParam("limit") int limit,
+                                               @RequestParam("keyWord") String keyWord) throws SupplierManageServiceException {
         // 初始化 Response
         Response responseContent = ResponseFactory.newInstance();
 
