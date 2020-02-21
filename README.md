@@ -53,4 +53,4 @@
 
 ## 视频-IDEA导入仓库系统并运行
 
-> http://qiuniu.yangshare.com/DvSsRTSJp43AptQskkgdTlVgOimq.mp4
+> http://qiuniu.yangshare.com/DvSsRTSJp43AptQskkgdTlVgOimq
