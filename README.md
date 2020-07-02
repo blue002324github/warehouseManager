@@ -53,4 +53,4 @@
 
 ## 视频-IDEA导入仓库系统并运行
 
-> [谷歌/360极速浏览器在线观看](http://qiuniu.yangshare.com/DvSsRTSJp43AptQskkgdTlVgOimq.mp4)
+> [谷歌/360极速浏览器在线观看->点我<-](http://qiuniu.yangshare.com/DvSsRTSJp43AptQskkgdTlVgOimq.mp4)
