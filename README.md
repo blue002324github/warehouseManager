@@ -38,6 +38,9 @@
 密码 ：123456
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/172938_7e1c90d9_736072.png "屏幕截图.png")
 
+## 数据库版本
+5.7（不要一味求新，企业开发大多用的5.7左右版本，稳定）
+
 ## 数据库关系图
 ![输入图片说明](https://gitee.com/uploads/images/2018/0412/194935_92258b3b_736072.png "Diagram 1.png")
 
