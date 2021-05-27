@@ -1,5 +1,9 @@
 # 基于SSM框架的仓库管理系统
 
+## 非常紧急的问题可以留言邮箱
+
+> yangshare_yc@qq.com
+
 ## 视频-IDEA导入仓库系统并运行
 
 > [谷歌/360极速浏览器在线观看->点我<-](http://qiuniu.yangshare.com/DvSsRTSJp43AptQskkgdTlVgOimq.mp4)
