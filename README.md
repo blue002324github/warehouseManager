@@ -1,6 +1,8 @@
 # 基于SSM框架的仓库管理系统
 
+## 视频-IDEA导入仓库系统并运行
 
+> [谷歌/360极速浏览器在线观看->点我<-](http://qiuniu.yangshare.com/DvSsRTSJp43AptQskkgdTlVgOimq.mp4)
 
 ## 功能
 
@@ -53,7 +55,3 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173311_53b058f8_736072.png "WMS-截图7.PNG")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173321_f828f801_736072.png "WMS-截图8.PNG")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/173328_41f84519_736072.png "WMS-截图9.PNG")
-
-## 视频-IDEA导入仓库系统并运行
-
-> [谷歌/360极速浏览器在线观看->点我<-](http://qiuniu.yangshare.com/DvSsRTSJp43AptQskkgdTlVgOimq.mp4)
