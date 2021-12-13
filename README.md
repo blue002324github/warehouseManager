@@ -6,7 +6,7 @@
 
 ## 视频-IDEA导入+运行项目演示
 
-> [谷歌/360极速浏览器在线观看->点我<-](http://qiuniu.yangshare.com/DvSsRTSJp43AptQskkgdTlVgOimq.mp4)
+> [谷歌/360极速浏览器在线观看->点我<-](https://share.plvideo.cn/front/video/preview?vid=6705b7a1923cdaebac55b6054967529a_6)
 
 ## 功能
 
