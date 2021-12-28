@@ -43,6 +43,15 @@
 用户ID : 1001
 密码 ：123456
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/172938_7e1c90d9_736072.png "屏幕截图.png")
+加密代码
+```
+// 用户密码（wms_user.USER_PASSWORD）加密规则
+String tempStr = MD5Util.MD5("123456");// 第一次对密码进行加密
+String encryptPassword = MD5Util.MD5(tempStr + "1001");// 第二次对密码进行加密
+//存入数据库的加密密码
+System.out.println(encryptPassword);
+```
+新增用户默认密码为用户ID（比如新增一个用户ID为1012，密码也为1012）
 
 ## 数据库版本
 5.7（不要一味求新，企业开发大多用的5.7左右版本，稳定）
