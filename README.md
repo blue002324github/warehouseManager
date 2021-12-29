@@ -1,4 +1,10 @@
+<a href='https://gitee.com/yangshare/warehouseManager/stargazers'><img src='https://gitee.com/yangshare/warehouseManager/badge/star.svg?theme=white' alt='star'></img></a>
+<a href='https://gitee.com/yangshare/warehouseManager/members'><img src='https://gitee.com/yangshare/warehouseManager/badge/fork.svg?theme=white' alt='fork'></img></a>
+
 # 基于SSM框架的仓库管理系统
+
+
+[![yangc/仓库管理系统](https://gitee.com/yangshare/warehouseManager/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/yangshare/warehouseManager)
 
 ## 非常紧急的问题可以留言邮箱（gitee私信很少看）
 
