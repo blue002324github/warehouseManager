@@ -6,7 +6,7 @@
 
 ## 视频-IDEA导入+运行项目演示
 
-> [->点我下载<-](https://gzc-download.ftn.qq.com/ftn_handler/1037f26963befd6669c1056a9ab4d5b246b62e95d6b248034f020f36c5a12866b36eb13c2a0a62fff4ef608fdcad2bcddf19ba182dc6d095cdefa79e13f3e1c4?compressed=0&dtype=2&fname=%E5%9F%BA%E4%BA%8ESSM%E6%A1%86%E6%9E%B6%E7%9A%84%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E6%BC%94%E7%A4%BA.mp4)
+> [->分享密码：x62t7y<-](https://share.weiyun.com/RJzEX6PG)
 
 ## 功能
 
