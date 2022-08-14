@@ -12,7 +12,7 @@
 
 ## 视频-IDEA导入+运行项目演示
 
-> [->分享密码：x62t7y<-](https://share.weiyun.com/RJzEX6PG)
+> 「基于SSM框架的仓库管理系统演示.mp4」https://www.aliyundrive.com/s/EyvLAHvJsfK 提取码: zf19
 
 ## 功能
 
