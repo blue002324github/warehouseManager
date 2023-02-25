@@ -12,7 +12,7 @@
 
 ## 视频-IDEA导入+运行项目演示
 
-> [->分享密码：x62t7y<-](https://share.weiyun.com/RJzEX6PG)
+> 「基于SSM框架的仓库管理系统演示.mp4」https://www.aliyundrive.com/s/EyvLAHvJsfK 提取码: zf19
 
 ## 功能
 
@@ -60,7 +60,9 @@ System.out.println(encryptPassword);
 新增用户默认密码为用户ID（比如新增一个用户ID为1012，密码也为1012）
 
 ## 数据库版本
-5.7（不要一味求新，企业开发大多用的5.7左右版本，稳定）
+###  _5.7（不要一味求新，企业开发大多用的5.7左右版本，稳定）_ 
+查看版本号命令如下：
+> MySQL> select version();
 
 ## 数据库关系图
 ![输入图片说明](https://gitee.com/uploads/images/2018/0412/194935_92258b3b_736072.png "Diagram 1.png")
