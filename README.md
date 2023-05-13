@@ -58,7 +58,7 @@ String encryptPassword = MD5Util.MD5(tempStr + "1001");// 第二次对密码进�
 System.out.println(encryptPassword);
 ```
 新增用户默认密码为用户ID（比如新增一个用户ID为1012，密码也为1012）
-## 📚 数据库版本
+## 📚 JDK版本
 
 ### jdk 1.8
 
