@@ -10,6 +10,12 @@
 
 > yangshare_yc@qq.com
 
+## 计划
+- [x] 录制idea启动系统演示视频（价值：很多初学者需要）
+- [ ] 数据库驱动兼容8.0，兼容MySQL5.7的旧代码放在分支mysql5.7（价值：应届毕业生80%以上默认用的MySQL8.0+）
+- [ ] springmvc迁移到springboot，使用springmvc的旧代码放在分支mysql5.7（价值：应届毕业生80%以上默认用的springboot框架）
+
+
 ## ⭕ 视频-IDEA导入+运行项目演示
 
 > 「基于SSM框架的仓库管理系统演示.mp4」https://www.aliyundrive.com/s/EyvLAHvJsfK 提取码: zf19
