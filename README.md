@@ -95,7 +95,7 @@ System.out.println(encryptPassword);
 ## 👍 支持
 
 - If the project is very helpful to you, you can buy the author a cup of coffee☕.
-- 如果这个项目对您有帮助，可以请作者喝杯咖啡吧哟☕
+- 如果这个项目对您有帮助，可以请作者喝杯咖啡哟☕
 
 |支付宝      |    微信|
 | :--------: | :--------:|
