@@ -19,6 +19,9 @@
 ## ⭕ 视频-IDEA导入+运行项目演示
 
 > 「基于SSM框架的仓库管理系统演示.mp4」https://www.aliyundrive.com/s/EyvLAHvJsfK 提取码: zf19
+<video src="/video/基于SSM框架的仓库管理系统演示.mp4" width="800" controls>
+  Your browser does not support the video tag.
+</video>
 
 ## 📋 功能
 
