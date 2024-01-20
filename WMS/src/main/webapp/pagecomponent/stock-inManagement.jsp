@@ -227,6 +227,8 @@
 				limit : -1
 			},
 			success : function(response){
+			    //给空选项
+			    $('#repository_selector').append("<option value=''></option>");
 				$.each(response.rows,function(index,elem){
 					$('#repository_selector').append("<option value='" + elem.id + "'>" + elem.id +"号仓库</option>");
 				});
@@ -283,6 +285,11 @@
 			if (!$('#stockin_form').data('bootstrapValidator').isValid()) {
 				return;
 			}
+			if (!stockin_repository) {
+              showMsg('error', '【入库仓库】未选择！！！', '');
+              return;
+            }
+
 
 			data = {
 				repositoryID : stockin_repository,
