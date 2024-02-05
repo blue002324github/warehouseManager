@@ -6,9 +6,9 @@
 
 [![yangc/仓库管理系统](https://gitee.com/yangshare/warehouseManager/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/yangshare/warehouseManager)
 
-## ✅ 非常紧急的问题可以留言邮箱（gitee私信很少看）
+## ✅ 非常紧急的问题可以关注公众号->发消息：仓库管理
 
-> yangshare_yc@qq.com
+> ![输入图片说明](qrcode_for_gh_cf005810de67_258.jpg)
 
 ## 计划
 - [x] 录制idea启动系统演示视频（价值：很多初学者需要）
